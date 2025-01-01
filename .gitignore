@@ -1,0 +1,6 @@
+# Exclude build output
+out/
+
+# Exclude IDE-specific files and folders
+.idea/
+*.iml
